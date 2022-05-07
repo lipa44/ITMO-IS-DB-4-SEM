@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to the "Sound of Mayatin"
 
 You can use the [editor on GitHub](https://github.com/lipa44/ITMO-IS-DB-4-SEM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Полный конспект курса по БД
 
-### Markdown
+### [Лекция 1 (из чего состоит курс)](Lectures/1_l.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Лекция 2 (СУБД и ANSI/SPARC)](Lectures/2_l.md)
 
-```markdown
-Syntax highlighted code block
+### [Лекция 3 (Модели данных)](Lectures/3_l.md)
 
-# Header 1
-## Header 2
-### Header 3
+### [Лекция 4 (БД и типы связей)]((Lectures/4_l.md))
 
-- Bulleted
-- List
+### [Лекция 5 (Реляционная алгебра)](Lectures/5_l.md)
 
-1. Numbered
-2. List
+### [Лекция 6 (Нормальные формы, аномалии, избыточность)](Lectures/6_l.md)
 
-**Bold** and _Italic_ and `Code` text
+### [Лекция 7 (_Производительность_ - индексы, представления)](Lectures/7_l.md)
 
-[Link](url) and ![Image](src)
-```
+### [Лекция 8 (_Надёжность_ - транзакции)](Lectures/8_l.md)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### [Лекция 9 (_Безопасность_)](Lectures/9_l.md)
 
-### Jekyll Themes
+### [Лекция 10 (Распределённые БД)](Lectures/10_l.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lipa44/ITMO-IS-DB-4-SEM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [Лекция 11 (NoSQL)](Lectures/11_l.md)
