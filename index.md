@@ -1,7 +1,5 @@
 # Welcome to the "Sound of Mayatin"
 
-You can use the [editor on GitHub](https://github.com/lipa44/ITMO-IS-DB-4-SEM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 ## Полный конспект курса по БД
 
 ### [1. Из чего состоит курс](Lectures/1_l.md)
@@ -25,3 +23,13 @@ You can use the [editor on GitHub](https://github.com/lipa44/ITMO-IS-DB-4-SEM/ed
 ### [10. Распределённые БД](Lectures/10_l.md)
 
 ### [11. NoSQL](Lectures/11_l.md)
+
+___
+
+[Исходник Липы](https://github.com/lipa44/ITMO-IS-DB-4-SEM/)
+
+[Исходник Исы](https://github.com/iskander-faggod/ITMO-IS-DB-4-SEM/)
+
+___
+
+@ 2022 [Липа](https://github.com/lipa44) and [Иса](https://github.com/iskander-faggod)
