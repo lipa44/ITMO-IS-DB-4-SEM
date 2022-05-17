@@ -24,6 +24,8 @@
 
 ### [11. NoSQL](Lectures/11_l.md)
 
+### [12. CAP теорема](Lectures/12_l.md)
+
 ___
 
 [Исходник Липы](https://github.com/lipa44/ITMO-IS-DB-4-SEM/)
