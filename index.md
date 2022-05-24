@@ -26,6 +26,8 @@
 
 ### [12. CAP теорема](Lectures/12_l.md)
 
+### [13. Базы знаний](Lectures/13_l.md)
+
 ___
 
 [Исходник Липы](https://github.com/lipa44/ITMO-IS-DB-4-SEM/)
